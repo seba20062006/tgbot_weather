@@ -6,4 +6,4 @@
 
 ## Запуск Telegram бота
 Запустите файл ```TelegramBot/bot.py```
-* Бот будет доступен <a href='t.me/cu1_weatherbot'>здесь</a>
+* Бот будет доступен <a href='t.me/for_14_project_bot.'>здесь</a>
